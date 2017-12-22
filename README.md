@@ -23,11 +23,11 @@ The functionalities that this first version of SurveyWS offers are:
 - showing of a single survey
 - completion of a survey
 
+If, for any reasons, you are interested in this project feel free to contact me.
+
 In the following, some screenshots of SurveyWS working:
 
 
 ![A complete survey](screenshots/es_showSurv.png?raw=true)
 
 ![All surveys](screenshots/es_showSurvs.png?raw=true)
-
-If, for any reasons, you are interested in this project feel free to contact me.
